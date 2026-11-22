@@ -78,5 +78,5 @@ ambiguous-question, and unsupported-question tests.
 
 ## AI Tools
 
-The question-answering component is a rule-based interpreter. It does
-not use a generative AI model or an external AI API.
+The question-answering component is a rule-based interpreter. "It does
+not use a generative AI model or an external AI API".
